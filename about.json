@@ -1,20 +1,20 @@
 {
-  "firstName": "",
-  "lastName": "",
-  "middleName": "",
-  "suffix": "",
-  "phone": "",
-  "email": "",
-  "address": "",
+  "firstName": "Anthony",
+  "lastName": "Ray",
+  "middleName": "Christopher Lee",
+  "suffix": "MPH",
+  "phone": "+13374851592",
+  "email": "anthonyray0825@gmail.com",
+  "address": "5565 Brentwood Street",
   "metro": "Denver",
   "city": "Arvada",
   "state": "CO",
   "zip": "80002",
   "online": {
     "website": "www.anthonyray.net",
-    "LinkedIn": "",
+    "LinkedIn": "/aray0825",
     "Indeed": "",
     "VisualCV": "",
-    "Git Hub": ""
+    "Git Hub": "/yoyo-array0825"
   }
 }
