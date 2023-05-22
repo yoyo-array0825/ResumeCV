@@ -4,8 +4,8 @@
   ],
   "languages": [
     { "softwareOrService": "C#", "selfAssessedSkillLevel": 3 },
-    { "softwareOrService": "VBA", "selfAssessedSkillLevel": 0 },
-    { "softwareOrService": "SQL", "selfAssessedSkillLevel": 0 },
+    { "softwareOrService": "VBA", "selfAssessedSkillLevel": 4 },
+    { "softwareOrService": "SQL", "selfAssessedSkillLevel": 4 },
     { "softwareOrService": "Javascript", "selfAssessedSkillLevel": 2 }
   ],
   "otherTechnical": [{}],
