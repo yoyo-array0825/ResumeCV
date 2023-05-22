@@ -1,6 +1,13 @@
 {
-  "software": [{}],
-  "languages": [{}],
+  "software": [
+    { "softwareOrService": "Azure DevOps (ADO)", "selfAssessedSkillLevel": 4 }
+  ],
+  "languages": [
+    { "softwareOrService": "C#", "selfAssessedSkillLevel": 3 },
+    { "softwareOrService": "VBA", "selfAssessedSkillLevel": 0 },
+    { "softwareOrService": "SQL", "selfAssessedSkillLevel": 0 },
+    { "softwareOrService": "Javascript", "selfAssessedSkillLevel": 2 }
+  ],
   "otherTechnical": [{}],
   "softSKills": [{}]
 }
