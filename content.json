@@ -1,0 +1,204 @@
+{
+  "name": "Anthony Ray, MPH",
+  "title": "SQA / Test Engineer",
+  "location": "Arvada, CO",
+  "authorization": "Authorized to work in the US for any employer",
+  "work_experience": [
+    {
+      "title": "Software QA Analyst",
+      "employer": "The Mayo Clinic - Rochester, MN",
+      "dates": "November 2021 - Present",
+      "description": [
+        "Supported fully-cloud API services providing lab and pathology resources.",
+        "Maintained high-level test planning and documentation standards.",
+        "Contributed to remote mob programming experiments."
+      ]
+    },
+    {
+      "title": "QA/Test Engineer",
+      "employer": "AbsenceSoft - Denver, CO",
+      "dates": "March 2020 - November 2021",
+      "description": [
+        "Conducted functional and regression testing for compliance-centric HR applications.",
+        "Researched and documented issues, supporting development efforts.",
+        "Contributed to refining Kanban and Scrum rituals."
+      ]
+    },
+    {
+      "title": "Test Engineer (automation)",
+      "employer": "Envision Technology Partners - Denver, CO",
+      "dates": "February 2018 - February 2020",
+      "description": [
+        "Performed web UI test automation using Selenium/C# and scripted test cases using Specflow.",
+        "Created and maintained automation code using MS Visual Studio and TFS for source control.",
+        "Analyzed testing needs, collaborated with product leads, and provided test analytics using Power BI and Azure DevOps Rest API.",
+        "Supported manual test team through data generation, UI testing, and mentoring."
+      ]
+    },
+    {
+      "title": "Manager",
+      "employer": "Corporate Compliance - Denver, CO",
+      "dates": "November 2016 - January 2018",
+      "description": [
+        "Ensured compliance/regulatory support of enterprise clinical IT and billing systems.",
+        "Provided guidance to development, deployment, and leadership teams.",
+        "Managed efforts resulting from audits of enterprise systems.",
+        "Investigated and reported system issues to leadership."
+      ]
+    },
+    {
+      "title": "Clinical Information Specialist",
+      "employer": "Western Nephrology - Denver, CO",
+      "dates": "June 2014 - October 2016",
+      "description": [
+        "Served as primary support for a 25-provider group nephrology practice.",
+        "Coordinated management of clinical/billing interfaces and ensured system uptime.",
+        "Configured/maintained user-facing and back-end components.",
+        "Provided guidance on privacy compliance, data analysis, and clinical reporting.",
+        "Managed company's internal SharePoint site and Microsoft Active Directory."
+      ]
+    },
+    {
+      "title": "Epic System Trainer/Consultant",
+      "employer": "Various US Hospital Systems - Various",
+      "dates": "October 2010 - May 2014",
+      "description": [
+        "Supported EMR/EHR implementations, coordinated classroom-style trainings, and provided on-site training.",
+        "Developed training materials and advised project coordinators on consultant deployment.",
+        "Provided technical guidance to training and clinical management."
+      ]
+    },
+    {
+      "title": "Project Coordinator / IT Manager",
+      "employer": "The Hurricane Legal Center - New Orleans, LA",
+      "dates": "June 2009 - June 2012",
+      "description": [
+        "Managed multiple databases, supported IT needs, and administered legal case management systems.",
+        "Developed advanced Excel-based workflows, managed user access, and improved processes.",
+        "Developed and managed document processing effort for high-volume litigation project."
+      ]
+    },
+    {
+      "title": "Data Management Consultant",
+      "employer": "Baptist Community Ministries - New Orleans, LA",
+      "dates": "December 2010 - June 2011",
+      "description": [
+        "Collaborated with the Program Evaluation division to support software vendor development.",
+        "Analyzed and migrated legacy data sources, advised on IT and information management needs."
+      ]
+    },
+    {
+      "title": "Program Evaluation Intern",
+      "employer": "Louisiana Public Health Institute - New Orleans, LA",
+      "dates": "December 2010 - June 2011",
+      "description": [
+        "Designed clinical reports and data-collection tools, analyzed disparate data sources.",
+        "Developed Office-based data-entry application and performed data request activities."
+      ]
+    },
+    {
+      "title": "Research Project Leader",
+      "employer": "New Orleans BioInnovation Center - New Orleans, LA",
+      "dates": "May 2010 - November 2010",
+      "description": [
+        "Developed and deployed iPad-based questionnaires for regional biotech workforce analysis.",
+        "Managed data collection team, conducted statistical analysis, and summarized findings."
+      ]
+    },
+    {
+      "title": "Data Collection Team Lead, Public Health Field Research",
+      "employer": "The Gulf Coast Child and Family Health Study - New Orleans, LA",
+      "dates": "May 2008 - April 2010",
+      "description": [
+        "Supported research to assess the impact of Hurricane Katrina on behavioral health resources.",
+        "Supervised data-collection operations, ensured data quality, and worked with community organizations."
+      ]
+    },
+    {
+      "title": "English Teacher",
+      "employer": "Stella Worley Middle School - Westwego, LA",
+      "dates": "January 2008 - May 2008",
+      "description": [
+        "Middle School English & Computer Enrichment Instruction"
+      ]
+    },
+    {
+      "title": "Copy Editor/Page Designer",
+      "employer": "LAKE CHARLES AMERICAN PRESS - Lake Charles, LA",
+      "dates": "August 2006 - December 2007",
+      "description": [
+        "Managed content/page design, health content, and opinion/insights section."
+      ]
+    },
+    {
+      "title": "Copy Editor/Page Designer",
+      "employer": "The Port Arthur News - Port Arthur, TX",
+      "dates": "February 2006 - August 2006",
+      "description": []
+    },
+    {
+      "title": "News Reporter",
+      "employer": "The Beauregard Daily News - DeRidder, LA",
+      "dates": "June 2005 - February 2006",
+      "description": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Public Health in Healthcare Systems Management",
+      "school": "LSU Health Sciences Center - New Orleans, LA",
+      "dates": "August 2009 - May 2015"
+    },
+    {
+      "degree": "Bachelor of Arts in Journalism",
+      "school": "McNeese State University - Lake Charles, LA",
+      "dates": "August 2001 - May 2005"
+    }
+  ],
+  "skills": {
+    "Programming Languages": [
+      "C# (3 years)",
+      "Visual Basic for Applications (VBA) - Expert"
+    ],
+    "Software Testing": [
+      "Test Automation (5 years)",
+      "Software quality assurance (5 years)",
+      "Selenium (3 years)",
+      "Functional testing (6 years)"
+    ],
+    "Tools and Technologies": [
+      "Microsoft Excel (10+ years)",
+      "Azure DevOps (5 years)",
+      "Visual Studio (5 years)",
+      "Jira (4 years)",
+      "Git (3 years)",
+      "Microsoft SQL Server",
+      "APIs"
+    ],
+    "Data Analysis": [
+      "Data analysis skills (10+ years)",
+      "SQL (7 years)",
+      "MongoDB (4 years)"
+    ],
+    "Other Skills": [
+      "Microsoft Office (10+ years)",
+      "Quality Assurance (5 years)",
+      "HIPAA (4 years)",
+      "Business requirements (6 years)",
+      "Scripting"
+    ]
+  },
+  "languages": [
+    "C# - Intermediate",
+    "Visual Basic for Applications (VBA) - Expert"
+  ],
+  "links": [
+    "http://www.anthonyray.net",
+    "http://www.linkedin.com/in/aray0825"
+  ],
+  "assessments": [
+    "Medical terminology — Proficient (August 2021)",
+    "Technical support — Proficient (October 2022)",
+    "Analyzing data — Proficient (December 2020)"
+  ]
+}
