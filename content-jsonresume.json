@@ -1,12 +1,13 @@
 {
-  "basics": {
+  "about": {
     "name": "Anthony Ray, MPH",
-    "label": "SQA / Test Engineer",
+    "job": "Software Quality Analyst / Test Engineer",
     "image": "",
-    "email": "",
-    "phone": "",
-    "url": "http://www.anthonyray.net",
+    "email": "AnthonyRay0825@gmail.com",
+    "phone": "+1-337-485-1592",
+    "url": "",
     "summary": [
+      
       "authorization: Authorized to work in the US for any employer"
     ],
     "location": {
