@@ -1,147 +1,55 @@
 {
-  "about": {
+  "basics": {
     "name": "Anthony Ray, MPH",
-    "job": "Software Quality Analyst / Test Engineer",
+    "label": "Software Quality Analyst and Test Engineer",
     "image": "",
-    "email": "AnthonyRay0825@gmail.com",
-    "phone": "+1-337-485-1592",
+    "email": "anthonyray0825@gmail.com",
+    "phone": "+13374851592",
     "url": "",
     "location": {
+      "address": "",
       "city": "Arvada",
-      "state": "CO"
+      "region": "CO",
+      "postalCode": "80002",
+      "countryCode": ""
     },
-    "summary": [
-      "authorization: Authorized to work in the US for any employer"
-    ],
-    "profiles": [
-      "http://indeed.com/aray0825",
-      "http://www.linkedin.com/in/aray0825"
-    ]
+    "authorization": "Authorized to work in the US for any employer"
   },
-  "education": [
+  "work": [
     {
-      "note": ".... JSON RESUME EXAMPLE .....",
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    },
-    {
-      "degree": "Master of Public Health in Healthcare Systems Management",
-      "school": "LSU Health Sciences Center - New Orleans, LA",
-      "dates": "August 2009 - May 2015"
-    },
-    {
-      "degree": "Bachelor of Arts in Journalism",
-      "school": "McNeese State University - Lake Charles, LA",
-      "dates": "August 2001 - May 2005"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
-    }
-  ],
-  "languages": [
-    "C# - Intermediate",
-    "Visual Basic for Applications (VBA) - Expert"
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "skills1": {
-    "skills": [
-      {
-        "name": "Web Development",
-        "level": "Master",
-        "keywords": [
-          "HTML",
-          "CSS",
-          "JavaScript"
-        ]
-      }
-    ],
-    "Programming Languages": [
-      "C# (3 years)",
-      "Visual Basic for Applications (VBA) - Expert"
-    ],
-    "Software Testing": [
-      "Test Automation (5 years)",
-      "Software quality assurance (5 years)",
-      "Selenium (3 years)",
-      "Functional testing (6 years)"
-    ],
-    "Tools and Technologies": [
-      "Microsoft Excel (10+ years)",
-      "Azure DevOps (5 years)",
-      "Visual Studio (5 years)",
-      "Jira (4 years)",
-      "Git (3 years)",
-      "Microsoft SQL Server",
-      "APIs"
-    ],
-    "Data Analysis": [
-      "Data analysis skills (10+ years)",
-      "SQL (7 years)",
-      "MongoDB (4 years)"
-    ],
-    "Other Skills": [
-      "Microsoft Office (10+ years)",
-      "Quality Assurance (5 years)",
-      "HIPAA (4 years)",
-      "Business requirements (6 years)",
-      "Scripting"
-    ]
-  },
-  "assessments": [
-    "Medical terminology — Proficient (August 2021)",
-    "Technical support — Proficient (October 2022)",
-    "Analyzing data — Proficient (December 2020)"
-  ],
-  "work_experience": [
-    {
-      "title": "Software QA Analyst",
-      "employer": "The Mayo Clinic - Rochester, MN",
-      "dates": "November 2021 - Present",
-      "description": [
+      "position": "Software QA Analyst",
+      "name": "The 05o Clinic",
+      "location": "Rochester, MN",
+      "startDate": "2021-11-01",
+      "endDate": "2023-12-01",
+      "summary": "",
+      "highlights": [
         "Supported fully-cloud API services providing lab and pathology resources.",
         "Maintained high test planning and documentation standards.",
         "Contributed to remote mob programming experiments."
       ]
     },
     {
-      "title": "QA/Test Engineer",
-      "employer": "AbsenceSoft - Denver, CO",
-      "dates": "March 2020 - November 2021",
-      "description": [
+      "position": "QA/Test Engineer",
+      "name": "AbsenceSoft",
+      "location": "Denver, CO",
+      "startDate": "2020-03-01",
+      "endDate": "2021-11-01",
+      "summary": "",
+      "highlights": [
         "Conducted functional and regression testing for compliance-centric HR applications.",
         "Researched and documented issues, supporting development efforts.",
         "Contributed to refining Kanban and Scrum rituals."
       ]
     },
     {
-      "title": "Test Engineer (automation)",
-      "employer": "Envision Technology Partners - Denver, CO",
-      "dates": "February 2018 - February 2020",
-      "description": [
+      "position": "Test Engineer (automation)",
+      "name": "Envision Technology Partners",
+      "location": "Denver, CO",
+      "startDate": "2018-02-01",
+      "endDate": "2020-02-01",
+      "summary": "",
+      "highlights": [
         "Performed web UI test automation using Selenium/C# and scripted test cases using Specflow.",
         "Created and maintained automation code using MS Visual Studio and TFS for source control.",
         "Analyzed testing needs, collaborated with product leads, and provided test analytics using Power BI and Azure DevOps Rest API.",
@@ -149,10 +57,13 @@
       ]
     },
     {
-      "title": "Manager",
-      "employer": "Corporate Compliance - Denver, CO",
-      "dates": "November 2016 - January 2018",
-      "description": [
+      "position": "Manager",
+      "name": "Corporate Compliance",
+      "location": "Denver, CO",
+      "startDate": "2016-11-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
         "Ensured compliance/regulatory support of enterprise clinical IT and billing systems.",
         "Provided guidance to development, deployment, and leadership teams.",
         "Managed efforts resulting from audits of enterprise systems.",
@@ -160,10 +71,13 @@
       ]
     },
     {
-      "title": "Clinical Information Specialist",
-      "employer": "Western Nephrology - Denver, CO",
-      "dates": "June 2014 - October 2016",
-      "description": [
+      "position": "Clinical Information Specialist",
+      "name": "Western Nephrology",
+      "location": "Denver, CO",
+      "startDate": "2014-06-01",
+      "endDate": "2016-10-01",
+      "summary": "",
+      "highlights": [
         "Served as primary support for a 25-provider group nephrology practice.",
         "Coordinated management of clinical/billing interfaces and ensured system uptime.",
         "Configured/maintained user-facing and back-end components.",
@@ -172,88 +86,187 @@
       ]
     },
     {
-      "title": "Epic System Trainer/Consultant",
-      "employer": "Various US Hospital Systems - Various",
-      "dates": "October 2010 - May 2014",
-      "description": [
+      "position": "Epic System Trainer/Consultant",
+      "name": "Various US Hospital Systems",
+      "location": "Various",
+      "startDate": "2010-10-01",
+      "endDate": "2014-05-01",
+      "summary": "",
+      "highlights": [
         "Supported EMR/EHR implementations, coordinated classroom-style trainings, and provided on-site training.",
         "Developed training materials and advised project coordinators on consultant deployment.",
         "Provided technical guidance to training and clinical management."
       ]
     },
     {
-      "title": "Project Coordinator / IT Manager",
-      "employer": "The Hurricane Legal Center - New Orleans, LA",
-      "dates": "June 2009 - June 2012",
-      "description": [
+      "position": "Project Coordinator / IT Manager",
+      "name": "The Hurricane Legal Center",
+      "location": "New Orleans, LA",
+      "startDate": "2009-06-01",
+      "endDate": "2012-06-01",
+      "summary": "",
+      "highlights": [
         "Managed multiple databases, supported IT needs, and administered legal case management systems.",
         "Developed advanced Excel-based workflows, managed user access, and improved processes.",
         "Developed and managed document processing effort for high-volume litigation project."
       ]
     },
     {
-      "title": "Data Management Consultant",
-      "employer": "Baptist Community Ministries - New Orleans, LA",
-      "dates": "December 2010 - June 2011",
-      "description": [
+      "position": "Data Management Consultant",
+      "name": "Baptist Community Ministries - New Orleans, LA",
+      "startDate": "2010-12-01",
+      "endDate": "2011-06-01",
+      "summary": "",
+      "highlights": [
         "Collaborated with the Program Evaluation division to support software vendor development.",
         "Analyzed and migrated legacy data sources, advised on IT and information management needs."
       ]
     },
     {
-      "title": "Program Evaluation Intern",
-      "employer": "Louisiana Public Health Institute - New Orleans, LA",
-      "dates": "December 2010 - June 2011",
-      "description": [
+      "position": "Program Evaluation Intern",
+      "name": "Louisiana Public Health Institute - New Orleans, LA",
+      "startDate": "2010-12-01",
+      "endDate": "2011-06-01",
+      "summary": "",
+      "highlights": [
         "Designed clinical reports and data-collection tools, analyzed disparate data sources.",
         "Developed Office-based data-entry application and performed data request activities."
       ]
     },
     {
-      "title": "Research Project Leader",
-      "employer": "New Orleans BioInnovation Center - New Orleans, LA",
-      "dates": "May 2010 - November 2010",
-      "description": [
+      "position": "Research Project Leader",
+      "name": "New Orleans BioInnovation Center - New Orleans, LA",
+      "startDate": "2010-05-01",
+      "endDate": "2010-11-01",
+      "summary": "",
+      "highlights": [
         "Developed and deployed iPad-based questionnaires for regional biotech workforce analysis.",
         "Managed data collection team, conducted statistical analysis, and summarized findings."
       ]
     },
     {
-      "title": "Data Collection Team Lead, Public Health Field Research",
-      "employer": "The Gulf Coast Child and Family Health Study - New Orleans, LA",
-      "dates": "May 2008 - April 2010",
-      "description": [
+      "position": "Data Collection Team Lead, Public Health Field Research",
+      "name": "The Gulf Coast Child and Family Health Study - New Orleans, LA",
+      "startDate": "2008-05-01",
+      "endDate": "2010-04-01",
+      "summary": "",
+      "highlights": [
         "Supported research to assess the impact of Hurricane Katrina on behavioral health resources.",
         "Supervised data-collection operations, ensured data quality, and worked with community organizations."
       ]
     },
     {
-      "title": "English Teacher",
-      "employer": "Stella Worley Middle School - Westwego, LA",
-      "dates": "January 2008 - May 2008",
-      "description": [
+      "position": "English Teacher",
+      "name": "Stella Worley Middle School",
+      "location": "Westwego, LA",
+      "startDate": "2008-01-01",
+      "endDate": "2008-05-01",
+      "summary": "",
+      "highlights": [
         "Middle School English & Computer Enrichment Instruction"
       ]
     },
     {
-      "title": "Copy Editor/Page Designer",
-      "employer": "LAKE CHARLES AMERICAN PRESS - Lake Charles, LA",
-      "dates": "August 2006 - December 2007",
-      "description": [
+      "position": "Copy Editor/Page Designer",
+      "name": "LAKE CHARLES AMERICAN PRESS - Lake Charles, LA",
+      "startDate": "2006-08-01",
+      "endDate": "2007-12-01",
+      "summary": "",
+      "highlights": [
         "Managed content/page design, health content, and opinion/insights section."
       ]
     },
     {
-      "title": "Copy Editor/Page Designer",
-      "employer": "The Port Arthur News - Port Arthur, TX",
-      "dates": "February 2006 - August 2006",
-      "description": []
+      "position": "Copy Editor/Page Designer",
+      "name": "The Port Arthur News - Port Arthur, TX",
+      "startDate": "2006-02-01",
+      "endDate": "2006-08-01",
+      "summary": "",
+      "highlights": []
     },
     {
-      "title": "News Reporter",
-      "employer": "The Beauregard Daily News - DeRidder, LA",
-      "dates": "June 2005 - February 2006",
-      "description": []
+      "position": "News Reporter",
+      "name": "The Beauregard Daily News",
+      "location": "DeRidder, LA",
+      "startDate": "2005-06-01",
+      "endDate": "2006-02-01",
+      "summary": "",
+      "highlights": []
     }
-  ]
+  ],
+  "education": [
+    {
+      "studyType": "Master of Public Health",
+      "area": "Healthcare Policy and Systems Management",
+      "institution": "LSU Health Sciences Center - New Orleans, LA",
+      "url": "",
+      "startDate": "2009-08-01",
+      "endDate": "2015-05-01"
+    },
+    {
+      "studyType": "Bachelor of Science",
+      "area": "Journalism",
+      "institution": "McNeese State University - Lake Charles, LA",
+      "url": "",
+      "startDate": "2005-06-01",
+      "endDate": "2006-02-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "C# (3 years)",
+        "Visual Basic for Applications (VBA) - Expert"
+      ]
+    },
+    {
+      "name": "Software Testing",
+      "level": "",
+      "keywords": [
+        "Test Automation (5 years)",
+        "Software quality assurance (5 years)",
+        "Selenium (3 years)",
+        "Functional testing (6 years)"
+      ]
+    },
+    {
+      "name": "Tools and Technologies",
+      "level": "",
+      "keywords": [
+        "Microsoft Excel (10+ years)",
+        "Azure DevOps (5 years)",
+        "Visual Studio (5 years)",
+        "Jira (4 years)",
+        "Git (3 years)",
+        "Microsoft SQL Server",
+        "APIs"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "",
+      "keywords": [
+        "Data analysis skills (10+ years)",
+        "SQL (7 years)",
+        "MongoDB (4 years)"
+      ]
+    },
+    {
+      "name": "Other Skills",
+      "level": "",
+      "keywords": [
+        "Microsoft Office (10+ years)",
+        "Quality Assurance (5 years)",
+        "HIPAA (4 years)",
+        "Business requirements (6 years)",
+        "Scripting"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "publications": []
 }
