@@ -1,0 +1,115 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://example.com/example.json",
+  "additionalProperties": true,
+  "definitions": {
+    "iso8601": {
+      "type": "string",
+      "description": "Similar to the standard date type, but each section after the year is optional. e.g. 2014-06-29 or 2023-04",
+      "pattern": "^([1-2][0-9]{3}-[0-1][0-9]-[0-3][0-9]|[1-2][0-9]{3}-[0-1][0-9]|[1-2][0-9]{3})$"
+    }
+  },
+  "properties": {
+    "$schema": {
+      "type": "// Required for out-of-the-box JSON Resume //",
+      "description": "// Required for out-of-the-box JSON Resume //",
+      "format": "// Required for out-of-the-box JSON Resume //"
+    },
+    "header": {
+      "type": "object",
+      "additionalProperties": true,
+      "description": "Name, contact info, profiles, etc...",
+      "properties": {
+        "name": {
+          "type": "string",
+          "validated": false
+        },
+        "label": {
+          "type": "string",
+          "validated": false
+        },
+        "email": {
+          "type": "string",
+          "validated": "format is schema.email"
+        },
+        "bitmoji": {
+          "type": "string",
+          "validated": "URL (as per RFC 3986) to a image in JPEG or PNG format"
+        },
+        "contact": {
+          "type": "object",
+          "validated": true,
+          "additionalProperties": true,
+          "properties": {
+            "phone": {
+              "type": "string",
+              "validated": false
+            },
+            "email": {
+              "type": "string",
+              "validated": false
+            },
+            "address": {
+              "type": "string",
+              "validated": false
+            }
+          }
+        }
+      }
+    },
+    "hx": {
+      "type": "array",
+      "additionalItems": false,
+      "items": {
+        "type": "object",
+        "additionalProperties": true,
+        "properties": {
+          "company": {
+            "type": "string",
+            "validated": false
+          },
+          "companyUrl": {
+            "type": "string",
+            "validated": "Yes but not bothering with it yet"
+          },
+          "companyLocation": {
+            "type": "string",
+            "validated": false
+          },
+          "jobTitle": {
+            "type": "string",
+            "validated": false
+          },
+          "jobStartDate": {
+            "myType": "string",
+            "$ref": "#/definitions/iso8601"
+          },
+          "jobEndDate": {
+            "myType": "string",
+            "$ref": "#/definitions/iso8601"
+          },
+          "jobRoles": {
+            "type": "array",
+            "additionalItems": false,
+            "items": {
+              "type": "string",
+              "validated": false
+            }
+          },
+          "jobSummary": {
+            "type": "string",
+            "validated": false
+          },
+          "jobHighlights": {
+            "type": "array",
+            "additionalItems": false,
+            "items": {
+              "type": "string",
+              "validated": false
+            }
+          }
+        }
+      }
+    }
+  }
+}
