@@ -1,0 +1,14 @@
+{
+  "hx":[
+    {
+      "employer":"",
+      "start-date":"",
+      "end-date":"",
+      "job-title":"",
+      "summary":"",
+      "responsibilities":[],
+      "skills":[],
+      "technologies":[]
+    }
+  ]
+}
