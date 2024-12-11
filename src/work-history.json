@@ -1,0 +1,113 @@
+{
+  "work_history": [
+    {
+      "title": "Software Quality Assurance Analyst",
+      "company": "The Mayo Clinic",
+      "location": "Remote",
+      "dates": "November 2021 – Present",
+      "responsibilities": [
+        "Conducted comprehensive backend testing for APIs and cloud functions to ensure functionality and reliability.",
+        "Performed front-end testing for clinical web-based diagnostic tools and messaging applications, improving usability and accuracy.",
+        "Collaborated as an active member of a cross-functional Scrum team, participating in all phases of the SDLC, including quarterly and sprint planning, design, development, validation, deployment, and process improvements.",
+        "Designed, tracked, and executed manual tests, ensuring the delivery of high-quality software.",
+        "Developed and maintained test documentation and artifacts such as test plans, suites, and cases using Azure DevOps, ensuring traceability of requirements and alignment with project goals.",
+        "Utilized diverse testing methodologies (e.g., branch and white box testing, black box, exploratory, and database testing) to ensure comprehensive coverage and identify critical defects early in the development process.",
+        "Performed component testing for cloud function applications and cloud storage queues to ensure seamless integration.",
+        "Executed thorough API testing, contributing to consistent data flow and system interoperability."
+      ]
+    },
+    {
+      "title": "Software QA Engineer",
+      "company": "AbsenceSoft, LLC",
+      "dates": "March 2020 – November 2021",
+      "responsibilities": [
+        "Planned, developed, and executed manual and automated functionality and smoke tests using tools like Postman and Swagger, and performed on-the-fly release validation testing to support development and release management cycles.",
+        "Researched and tested tooling options for performance and load testing as part of an early DevOps initiative to improve system scalability.",
+        "Consistently identified and reported critical application bugs pre-release, leveraging the Atlassian suite to triage and monitor tests and issues effectively.",
+        "Mentored team members on technical tools and company-specific processes, fostering a culture of knowledge sharing and continuous improvement."
+      ]
+    },
+    {
+      "title": "Software Test Engineer",
+      "company": "Envision Technology Partners",
+      "location": "Denver, CO",
+      "dates": "February 2012 – February 2020",
+      "responsibilities": [
+        "Played a critical role in establishing and scaling the testing framework for a small but rapidly growing provider of immunization tracking services.",
+        "Planned, developed, and maintained a robust suite of 800+ automated UI tests using C#, Selenium, and SpecFlow, significantly improving test coverage.",
+        "Collaborated closely with the development team to understand testing requirements, identify edge cases, and align testing capabilities with product needs.",
+        "Analyzed test results to identify trends and optimize test planning, contributing to improved product quality and reduced defect rates.",
+        "Provided technical mentorship and support to the manual testing team, including the creation of test data and guidance on testing methodologies."
+      ]
+    },
+    {
+      "title": "Manager, Corporate Compliance",
+      "company": "DaVita Kidney Care",
+      "location": "Denver, CO",
+      "responsibilities": [
+        "Provided compliance and regulatory support for enterprise clinical IT and billing systems.",
+        "Guided development, deployment, training, and leadership teams to ensure compliance with internal policies and external regulations.",
+        "Directed clinical, IT, revenue operations, and other stakeholders on compliance-related issues impacting clinical and billing systems.",
+        "Managed efforts resulting from audits of enterprise systems, ensuring timely resolution of findings.",
+        "Investigated and reported to leadership on compliance matters related to clinical and billing systems."
+      ]
+    },
+    {
+      "title": "Clinical Information Specialist",
+      "company": "Western Nephrology",
+      "location": "Denver, CO",
+      "dates": "June 2014 – October 2016",
+      "responsibilities": [
+        {
+          "role": "Administrator of Integrated Clinical/Billing EMR/EHR System",
+          "tasks": [
+            "Configured and maintained user-facing and back-end components for clinical, billing, registration, and scheduling.",
+            "Served as the primary support resource for a 20-MD nephrology practice (~80 users across five outpatient locations).",
+            "Reported and provided guidance to partners and leadership on system issues and defects.",
+            "Researched and developed workflow solutions to meet clinical, billing, operational, and leadership needs.",
+            "Coordinated the management of clinical/billing interfaces with vendors and stakeholders, including bi-directional lab interfaces, claims processing, and Meaningful Use reporting.",
+            "Ensured uptime and functionality during system upgrades and IT outages."
+          ]
+        },
+        {
+          "role": "Security/Privacy Compliance Officer",
+          "tasks": [
+            "Developed and deployed privacy and security training content and a comprehensive deployment plan.",
+            "Provided guidance on privacy and security considerations, ensuring compliance with HIPAA and security best practices.",
+            "Oversaw privacy and security aspects of clinical IT workflows, clinical research efforts, and vendor coordination."
+          ]
+        },
+        {
+          "role": "Business Intelligence System Manager/Admin and Data Analyst",
+          "tasks": [
+            "Delivered monthly, quarterly, and annual financial and operational reports to partners and leadership with a focus on accuracy and timeliness.",
+            "Researched and implemented methods for advanced clinical and financial ad hoc reporting using existing resources.",
+            "Developed workflows for efficient delivery of data and reports to leadership, providers, and clinical end-users.",
+            "Supported the establishment of and advised the practice’s clinical quality reporting committee."
+          ]
+        },
+        {
+          "role": "Co-Manager of IT Resources and Processes",
+          "tasks": [
+            "Advised leadership on purchasing decisions and coordinated with managed IT services vendors to address daily and long-term technology needs.",
+            "Led a successful campaign to improve mobile device security, advocating for better compliance with HIPAA standards and convincing leadership to adopt a Mobile Device Management (MDM) service.",
+            "Researched and deployed the MDM service, ensuring compliance with legal and regulatory requirements (e.g., CERT).",
+            "Administered and managed the company’s SharePoint system (2007), including extensive testing for migration to Office 365."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "EMR/EHR System Consultant, Trainer, and Support Specialist",
+      "company": "Multiple Healthcare Systems",
+      "location": "U.S.",
+      "dates": "October 2010 – May 2014",
+      "responsibilities": [
+        "Supported clinical and administrative users, as well as project and client leadership, during EMR/EHR implementations and deployments.",
+        "Coordinated and delivered classroom-style training sessions for diverse clinical users, including specialist physicians (MDs), pharmacists, nurses (RNs), and others.",
+        "Provided on-site training to clinical and non-clinical users during and post-implementation, ensuring effective system adoption.",
+        "Developed training materials and resources tailored for clinical users to facilitate successful pre-deployment readiness."
+      ]
+    }
+  ]
+}
