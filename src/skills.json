@@ -1,0 +1,72 @@
+{
+  "skills": [],
+  "training": [
+    {
+      "artifactType": "badges",
+      "technology": "Google Cloud Platform",
+      "provider": "Google Cloud Platform",
+      "badges": [
+        {
+          "description": "Trust and Security with Google Cloud",
+          "completed": "Nov 5, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/hKYzKuumKFXn/kB2byuon/eMaz8yZ0yp2nWP90AdYQA=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12645422"
+        },
+        {
+          "description": "Innovating with Google Cloud Artificial Intelligence",
+          "completed": "Nov 5, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/5Eeu42AHV2aw8H1cAhXhkn0OkcMbB7xKoAqE+S2sUxQ=",
+          "publicSrc": ""
+        },
+        {
+          "description": "Exploring Data Transformation with Google Cloud",
+          "completed": "Nov 5, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/V+Q2ynv3UQ/EiWm0GUSXx/f0pcfvyRU6ZmLBMrlLN+8=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12636252"
+        },
+        {
+          "description": "Cloud Functions: 3 Ways",
+          "completed": "Nov 14, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/Vkm128ozaMpy59b7b1pajsI2s3UfvPnEGKkR1lfBhcU=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12839143"
+        },
+        {
+          "description": "Get Started with API Gateway",
+          "completed": "Nov 13, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/ekXAQNUukXGsBzIAozJKF/xfN27PDqYf8KJ+sHQOtog=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12819128"
+        },
+        {
+          "description": "Store, Process, and Manage Data on Google Cloud - Console",
+          "completed": "Nov 19, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/ffsB9JZEVoAUji2jcguivOz3PYByMLkgCthL9dQHrwI=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12921726"
+        },
+        {
+          "description": "Scaling with Google Cloud Operations",
+          "completed": "Nov 5, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/v8AL1tQJYNNUQj9j69SWe2nWtVX43vGx2fqU6/pZDAE=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12645938"
+        },
+        {
+          "description": "Digital Transformation with Google Cloud",
+          "completed": "Nov 4, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/l9H7d28u9Ybon8eT476WqDA6OYuo+/qxsHZfTA4tjdE=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12624470"
+        },
+        {
+          "description": "Modernize Infrastructure and Applications with Google Cloud",
+          "completed": "Nov 5, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/qsYwo46FoZEggtASX6mkKShc2YoLcsEzh9Uif6Cp+lU=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12644750"
+        },
+        {
+          "description": "Developing Applications with Google Cloud: Foundations",
+          "completed": "Nov 12, 2024",
+          "badgeSrc": "https://cdn.qwiklabs.com/rVP1VD8Ngyg6aS65m2X7gsyk3AlVxCwESL9dgvblFqw=",
+          "publicSrc": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd/badges/12798821"
+        }
+      ]
+    }
+  ]
+}
