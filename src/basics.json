@@ -1,0 +1,40 @@
+{
+  "basics": {
+    "name": "Anthony Ray, MPH",
+    "label": "Software Quality Analyst / Test Engineer",
+    "image": "",
+    "email": "anthonyray0825@gmail.com",
+    "phone": "(337) 485-1592",
+    "url": "https://anthonyray.net",
+    "summary": "",
+    "location": {
+      "address": "9370 W 56TH PL",
+      "postalCode": "CO 80002",
+      "city": "ARVADA",
+      "countryCode": "US",
+      "region": "Denver Metro Area"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aray0825",
+        "url": ""
+      },
+      {
+        "network": "Google Cloud Skills Boost",
+        "username": "",
+        "url": "https://www.cloudskillsboost.google/public_profiles/4592bbc8-89b5-4389-bbd9-88e8e40676cd"
+      },
+      {
+        "network": "Github",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "Credly",
+        "username": "",
+        "url": ""
+      }
+    ]
+  }
+}
