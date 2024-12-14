@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>{{PageTitle}}</title>
+<style>
+
+.item1 { grid-area: banner; }
+.item2 { grid-area: lefty; }
+.item3 { grid-area: header; }
+.item4 { grid-area: righty; }
+.item5 { grid-area: main; }
+  
+  html, body { height: 100%; }
+  .full-height { height: 100%; }
+  body {
+    background-color: #f1eff4;
+  }
+  #main {}
+  .grid-container {
+  	display: grid;
+    grid-template-areas:
+      'banner banner banner banner banner banner'
+      'header header header header header righty'
+      'lefty lefty main main main main';
+      'lefty lefty main main main main';
+    gap: 10px;
+    background-color: #29292d;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .grid-container > div {
+    background-color: #f1eff4;
+    
+    /* VISUAL HELPER STYLES */
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+</style>
+</head>
+<body>
+  <div id="main">
+<div class="grid-container">
+  <div class="item1">banner</div>
+  <div class="item2">lefty</div>
+  <div class="item3">overview</div>  
+  <div class="item4">contact</div>
+  <div class="item5">work</div>
+</div>
+  </div>
+</body>
+</html>
